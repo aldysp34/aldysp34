@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Aldi Surya Putra
-- 👀 I’m interested in Web Programming using PHP and Python
+- 👀 I’m interested in Web Programming using PHP and Automation using Python
 - 🌱 I’m currently learning Laravel, React.js, Vue.js, and Python
 - 📫 How to reach me, just by sending email to aldysuryaputra@gmail.com or my instagram @aldysp34
 
