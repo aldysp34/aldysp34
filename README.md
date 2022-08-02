@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Aldi Surya Putra
-- 👀 I’m interested in Machine Learning using Python
-- 🌱 I’m currently learning Python, and everything about Machine Learning
-- 📫 How to reach me, just by sending email to aldysuryaputra@gmail.com or my instagram @aldysp34
+- 👀 I’m an Backend Engineer Enthusiast
+- 🌱 I’m currently learning Node.js and Golang
+- 📫 If you want to reach me, just by sending email to aldysuryaputra@gmail.com or my instagram @aldysp34
 
 <!---
 aldysp34/aldysp34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
