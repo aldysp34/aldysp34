@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Aldi Surya Putra
 - 👀 I’m an Backend Engineer Enthusiast
-- 🌱 I’m currently learning Node.js and Golang
+- 🌱 I’m currently learning Node.js and Golang, and learn programming deeply. So that I can become a good software engineer
 - 📫 If you want to reach me, just by sending email to aldysuryaputra@gmail.com or my instagram @aldysp34
 
 <!---
